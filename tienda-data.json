@@ -11,8 +11,8 @@
       "stock": 15,
       "rating": 4.5,
       "reviews": 128,
-      "guarantee": true,
-      "guaranteeText": "12 meses de garantía contra defectos de fabricación.",
+      "guarantee": false,
+      "guaranteeText": "",
       "visible": false
     },
     {
