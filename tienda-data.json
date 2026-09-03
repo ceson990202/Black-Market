@@ -13,7 +13,7 @@
       "reviews": 128,
       "guarantee": true,
       "guaranteeText": "12 meses de garantía contra defectos de fabricación.",
-      "visible": true
+      "visible": false
     },
     {
       "id": 2,
@@ -28,7 +28,7 @@
       "reviews": 256,
       "guarantee": true,
       "guaranteeText": "18 meses de garantía. Incluye 1 año de seguro.",
-      "visible": true
+      "visible": false
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
       "reviews": 89,
       "guarantee": true,
       "guaranteeText": "24 meses de garantía contra defectos de fabricación.",
-      "visible": true
+      "visible": false
     },
     {
       "id": 4,
